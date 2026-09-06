@@ -1,7 +1,3 @@
-Tôi đã chuyển toàn bộ nội dung sang dạng code Markdown hoàn chỉnh. Dưới đây là phiên bản đã được định dạng đúng chuẩn Markdown:
-
-
-```markdown
 # SBBS-Axioms.md v0.1.0
 
 
